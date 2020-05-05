@@ -1,4 +1,4 @@
-package com.COVIDcode.utils;
+package com.CBIIT.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

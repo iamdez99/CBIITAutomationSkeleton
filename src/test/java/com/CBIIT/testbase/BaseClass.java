@@ -7,8 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.COVIDcode.utils.ConfigsReader;
-import com.COVIDcode.utils.Constants;
+import com.CBIIT.utils.ConfigsReader;
+import com.CBIIT.utils.Constants;
 
 public class BaseClass {
 

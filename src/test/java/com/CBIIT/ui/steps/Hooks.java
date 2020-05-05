@@ -1,7 +1,7 @@
 package com.CBIIT.ui.steps;
 
 
-import com.COVIDcode.utils.CommonMethods;
+import com.CBIIT.utils.CommonMethods;
 
 import cucumber.api.Scenario;
 import cucumber.api.java.After;

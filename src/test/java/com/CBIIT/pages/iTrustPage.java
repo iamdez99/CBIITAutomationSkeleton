@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.COVIDcode.utils.CommonMethods;
+import com.CBIIT.utils.CommonMethods;
 
 
 public class iTrustPage extends CommonMethods {
